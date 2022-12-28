@@ -1,6 +1,6 @@
 {
   "useConfigFiles": true,
-  "cssPreprocessor": "scss",
+  "cssPreprocessor": "dart-sass",
   "plugins": {
     "@vue/cli-plugin-babel": {},
     "@vue/cli-plugin-typescript": {
