@@ -1,6 +1,9 @@
 {
   "useConfigFiles": true,
   "plugins": {
+    "vue-cli-plugin-vuetify": {
+      "preset": "Vuetify 2 - Vue CLI (recommended)"
+    },
     "@vue/cli-plugin-babel": {},
     "@vue/cli-plugin-typescript": {
       "classComponent": true,
