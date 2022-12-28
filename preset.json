@@ -14,7 +14,6 @@
       "config": "prettier",
       "lintOn": ["save"]
     },
-    "vue-cli-plugin-vuetify": {},
     "@vue/cli-plugin-unit-jest": {},
     "@vue/cli-plugin-e2e-cypress": {}
   },
