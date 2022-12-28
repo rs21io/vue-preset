@@ -1,9 +1,7 @@
 {
   "useConfigFiles": true,
+  "cssPreprocessor": "scss",
   "plugins": {
-    "vue-cli-plugin-vuetify": {
-      "preset": "prototype"
-    },
     "@vue/cli-plugin-babel": {},
     "@vue/cli-plugin-typescript": {
       "classComponent": true,
@@ -18,8 +16,10 @@
       "lintOn": ["save"]
     },
     "@vue/cli-plugin-unit-jest": {},
-    "@vue/cli-plugin-e2e-cypress": {}
+    "@vue/cli-plugin-e2e-cypress": {},
+    "vue-cli-plugin-vuetify": {
+      "preset": "prototype"
+    }
   },
-  "vueVersion": "2",
-  "cssPreprocessor": "dart-sass"
+  "vueVersion": "2"
 }
